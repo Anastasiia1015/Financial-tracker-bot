@@ -21,7 +21,6 @@ Welcome to the Financial Tracker Bot, a Telegram bot designed to help you manage
 
 - Python 3.x
 - Telegram Bot Token (You can get one by creating a bot on [BotFather](https://core.telegram.org/bots#botfather))
-- PostgreSQL (or any preferred database supported by Django)
 
 ### Setup
 
