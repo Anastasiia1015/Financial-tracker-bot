@@ -1,6 +1,3 @@
-Sure, here is a sample README file for your Telegram financial tracker bot:
-
----
 
 # Financial Tracker Bot
 
